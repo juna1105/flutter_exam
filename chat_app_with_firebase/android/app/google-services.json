@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753456400731",
+    "project_id": "chat-app-devimun",
+    "storage_bucket": "chat-app-devimun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753456400731:android:39e624d2e75d70fc39727e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753456400731-pjb0s6rfhfivqb6jkqhtpepudvep14r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW15ahXVpEdBs1dOSdH7l7kyBcyyDUIG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753456400731-pjb0s6rfhfivqb6jkqhtpepudvep14r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
